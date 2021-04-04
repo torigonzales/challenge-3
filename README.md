@@ -47,7 +47,7 @@ After a several hours of refactroing the syntax I was bale to successfully gener
 
 ## Resources 
 
-<a href="https://github.com/torigonzales/challenge1">GitHub Repo</a>
+<a href="https://github.com/torigonzales/challenge-3">GitHub Repo</a>
 
 <a href="https://www.youtube.com/watch?v=eVGEea7adDM"> YouTube</a>
 
