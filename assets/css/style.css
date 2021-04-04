@@ -117,7 +117,7 @@ button[disabled] {
   resize: none;
   overflow: hidden;
 }
- .form{
+ .card-body .form-container{
      display: grid;
      grid-template-columns: auto auto;
      
