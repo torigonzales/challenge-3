@@ -33,14 +33,14 @@ I was able to get a pasword to generate.
 
 ---
 I also created checked boxes to make the user experience was little more clear as to what was required for their password. 
-<img src="./assets/images/javascript3.png"/>
+<img src="./assets/images/Javascript3.png"/>
 
 
 
 ---
 
 ## VIctories
-After a several hours of refactroing the syntax I was bale to successfully generate a password with specific characteristics! 
+After several hours of refactoring the syntax I was able to successfully generate a password with specific characteristics! 
 <img src="./assets/images/javascript4.png"/>
 
 ---
