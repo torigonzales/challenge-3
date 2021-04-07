@@ -45,6 +45,11 @@ After several hours of refactoring the syntax I was able to successfully generat
 
 ---
 
+I decided to use Character Codes to create more oraganized code, instead of long arrays. 
+<img src="./assets/images/javascript5.png" />
+
+---
+
 ## Resources 
 
 <a href="https://github.com/torigonzales/challenge-3">GitHub Repo</a>
@@ -53,6 +58,7 @@ After several hours of refactoring the syntax I was able to successfully generat
 
 <a href="https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiLjJ7fosLvAhWXW80KHawRD_oQPAgI">Google</a>
 
+<a href="https://www.w3schools.com/charsets/ref_html_ascii.asp">w3 Schools</a>
 
 
 
